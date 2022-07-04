@@ -23,7 +23,10 @@ Chat App is a mobile application using React Native. The app will provide users 
   </ol>
 </details>
 
-<img width="1440" alt="Screenshot 2022-06-08 at 16 23 40" src="https://user-images.githubusercontent.com/83247314/172641830-c9fe1d27-f42c-4fd1-a7e1-2dd0efa1dab9.png">
+<img width="431" alt="chat" src="https://user-images.githubusercontent.com/88906282/177076664-f1d8495b-fe7b-44e6-90ab-ea9b5f1e4993.png">
+<img width="422" alt="features" src="https://user-images.githubusercontent.com/88906282/177076672-614eb987-d45d-42f7-a457-4d48a38938ce.png">
+<img width="425" alt="home" src="https://user-images.githubusercontent.com/88906282/177076675-16d0a448-bfc5-4e11-a5c0-07cc993f9c6e.png">
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
